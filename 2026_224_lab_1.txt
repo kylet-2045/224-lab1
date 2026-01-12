@@ -1,0 +1,16 @@
+COSC 224 Git Lab
+
+Team members: Jack, Anhelyna, Kyle
+Our favorite animals...
+
+Mammals:
+1. Kyle's fav... Pig
+
+Birds:
+1. Kyle's fav... Macaw
+
+Fish:
+1. Kyle's fav... Clown Fish
+
+Reptile:
+1. Kyle's fav... Iguana
